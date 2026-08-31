@@ -1,17 +1,59 @@
-# xiaoluo_diary
+<img width="1672" height="941" alt="25de00eb7e7130bda908a6a673312e0c" src="https://github.com/user-attachments/assets/5b8167d1-7b2d-435c-9514-aa3998071353" /># 📔 小罗日记 Xiaoluo Diary
 
-A new Flutter project.
+一款用于记录生活的 Flutter 日记 App。
 
-## Getting Started
+不仅可以写日记，还整合了照片画廊、随机时刻、日期回顾、倒数日以及年度总结等功能，希望把生活中的文字、照片和回忆集中记录在一个地方。
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ 主要功能
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 📝 **日记记录**
+  - 支持文字与照片
+  - 支持标签分类
+  - 支持多种筛选方式
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📅 **日期视图**
+  - 按日期查看日记
+  - 支持月份 / 年份切换
+  - 查看某一天留下的照片与记录
+
+- 🖼️ **照片画廊**
+  - 自动整理日记中的照片
+  - 按月份展示照片墙
+  - 回顾不同时间留下的生活瞬间
+
+- 🎲 **随机时刻**
+  - 随机跳转到过去的一篇日记或感想
+  - 偶尔重新遇见曾经的自己
+
+- 📊 **年度总结**
+  - 支持每月总结
+  - 汇总生成年度记录
+  - 回顾这一年的生活轨迹
+
+- 🎨 **主题设置**
+  - 支持多种主题
+  - 黑色 / 白色 / 黄色 / 蓝色
+  - 支持日间与夜间模式
+
+---
+
+## 📱 项目截图
+<img width="1672" height="941" alt="25de00eb7e7130bda908a6a673312e0c" src="https://github.com/user-attachments/assets/a8cea1c6-46cb-40ad-a1b7-2c9c8263ce30" />
+
+---
+
+## 🛠️ 技术栈
+
+- Flutter
+- Dart
+
+---
+
+## 🚀 本地运行
+
+确保已经安装 Flutter：
+
+```bash
+flutter doctor
